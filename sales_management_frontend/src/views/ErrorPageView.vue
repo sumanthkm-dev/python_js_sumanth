@@ -5,7 +5,7 @@
       Something went wrong while processing your request. Please try again
       later.
     </p>
-    <router-link to="/">Go back to the dashboard</router-link>
+    <router-link to="/dashboard">Go back to the dashboard</router-link>
   </div>
 </template>
 
